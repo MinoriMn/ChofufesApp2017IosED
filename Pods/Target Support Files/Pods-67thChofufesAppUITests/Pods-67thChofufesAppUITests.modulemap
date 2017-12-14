@@ -1,0 +1,6 @@
+framework module Pods_67thChofufesAppUITests {
+  umbrella header "Pods-67thChofufesAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
